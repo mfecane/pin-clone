@@ -1,0 +1,7 @@
+.upper-grid {
+  display: grid;
+  grid-template-columns: 3fr 2fr 2fr;
+  grid-template-rows: 380px;
+  gap: 32px;
+  margin: 16px 0px 32px 0;
+}
